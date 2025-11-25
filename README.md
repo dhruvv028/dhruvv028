@@ -1,71 +1,84 @@
-# 👋 Hi, I'm Dhruv Gupta!
+👋 Hi, I'm Dhruv Gupta!
 
-🎓 B.Tech CSE student at KIIT | 💻 Full-Stack Developer | 🔍 Open Source Contributor  
-📍 Bhubaneswar, India | 🌐 API Fellow | 🚀 Passionate about building scalable, real-world applications
+🎓 B.Tech CSE @ KIIT (CGPA: 8.12)
+💻 Full-Stack & GenAI Developer
+🔍 Building AI-driven, scalable products
+📍 Bhubaneswar, India
 
----
+💡 About Me
 
-## 💡 About Me
+I’m a Computer Science student passionate about full-stack development, LLM/RAG systems, and API-driven applications. I enjoy turning real-world problems into reliable engineering solutions—whether it's voice-based civic tech, AI research tools, or scalable e-commerce systems.
+I combine software engineering fundamentals with modern frameworks to ship fast, usable, production-ready applications.
 
-I'm a Computer Science student with a strong foundation in software engineering, data structures, and high-performance computing. I enjoy working on impactful projects, especially those involving AI, APIs, and full-stack systems. I'm currently contributing to open-source through the API Fellowship and actively improving my skills through certifications and real-world projects.
+🔧 Tech Stack
 
----
+Languages: Java, C, Python, JavaScript, SQL, HTML5
+Frameworks & Libraries: React.js, Node.js, Express.js, LangChain
+Databases: MongoDB, MySQL
+Developer Tools: Git, GitHub, Postman, VS Code, PyCharm
+Soft Skills: Communication, Team Collaboration, Task Prioritization
 
-## 🔧 Tech Stack
+🚀 Projects
+🛍️ CLOSET READY – Full-Stack E-commerce Platform
 
-**Languages:** Java, Python, C, JavaScript, HTML, CSS, SQL  
-**Frameworks & Libraries:** MERN Stack, Next.js, React.js, Node.js, Express.js, Tailwind CSS  
-**Databases:** MongoDB, MySQL, Supabase  
-**Tools:** Git, GitHub, VS Code  
-**Soft Skills:** Communication, Teamwork, Time Management  
+Tech: React, Node.js, MongoDB, Redux, Vite
 
----
+Built a full-stack platform with JWT auth, role-based access, and modular inventory dashboard
 
-## 🚀 Projects
+Integrated PayPal payments and completed 100+ successful test transactions
 
-### 🛍️ CLOSET READY – E-commerce Web App  
-**Tech:** MERN Stack, Redux, PayPal/Paytm  
-- Built a full-stack e-commerce platform with authentication and admin panel  
-- Integrated PayPal and Paytm for secure payments  
-- Used Redux & Material UI for efficient state and responsive UI
+Reduced cart latency by 30% with Redux optimizations and efficient build pipeline
 
-### 🎙️ AI Recruiter Voice Agent  
-**Tech:** Next.js, React, Supabase, Vapi.ai  
-- Developed an AI-based voice bot for automating job interviews  
-- Integrated real-time voice via Vapi.ai and dynamic question logic
+Live | GitHub
 
-### 🔔 NotifyHub – Scalable Notification System  
-**Tech:** React, TypeScript, FastAPI, SQLite  
-- Multi-channel notifications (Email, SMS, in-app)  
-- Custom queue-based async processing & interactive dashboard
+📣 JanBol – Bharat’s Voice for Civic Change
 
----
+Tech: GenAI, React Native, Node.js, MongoDB, RabbitMQ**
 
-## 📜 Certifications
+Developed a voice-driven civic issue reporting system using GenAI for classification and analysis
 
-- ✅ [Deloitte Australia Technology Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_mt4Hv2mEqcvCrXJpi_1745954113291_completion_certificate.pdf)
-- ✅ [Software Engineering Intern Certification – HackerRank](https://www.hackerrank.com/certificates/3dd97d195c0f)
-- ✅ [Frontend Developer (React) Certification – HackerRank](https://www.hackerrank.com/certificates/8dcec96f1aa4)
+Built real-time dashboards with AI-powered insights
 
----
+Implemented scalable event pipelines enabling officials to process reports 2× faster
 
-## 🌱 Community Involvement
+🔎 InsightBot – AI News Research Tool
 
-- **Enactus KIIT** – Point of Contact | National Cup 2024 winner  
-- **K-Konnect** – Alumni Relations Team  
-- **National Service Scheme (NSS)** – Volunteer for social impact initiatives
+Tech: Streamlit, LangChain, Gemini 2.5, FAISS, HuggingFace
 
----
+Built an LLM-powered research assistant for live news summarization & Q&A
 
-## 📫 Let's Connect
+Implemented RAG using MiniLM + FAISS for high-accuracy semantic retrieval
 
-- ✉️ Email: 28dhruvgupta@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-gupta-a87353168/)  
-- 🧑‍💻 [GitHub](https://github.com/dhruvv028)
+Added an interactive Streamlit dashboard with real-time ingestion & vector indexing
 
----
+📜 Certifications
 
-### ⚡ Fun Fact
+Oracle Certified Professional: OCI Generative AI (1Z0-1127-25)
+Worked with OCI Agents, Generative AI Service, and Oracle 23ai Vector Database to deploy LLM-based and RAG solutions.
 
-I’m obsessed with building tools that make life easier—whether it's automating interviews or scaling notifications ⚙️
+🌱 Community & Leadership
+Enactus KIIT – Point of Contact
 
+1st Place – Enactus National Cup 2024 (among 200+ colleges)
+
+Designed engineering-driven social impact solutions
+
+K-Konnect – Alumni Relations
+
+Coordinated outreach for 100+ alumni and created engagement reports with 85% response rate
+
+National Service Scheme (NSS) – General Volunteer
+
+Led 10+ community campaigns and events with participation from 200+ students
+
+📫 Let's Connect
+
+✉️ Email: 28dhruvgupta@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/dhruv-gupta-a87353168
+
+🧑‍💻 GitHub: https://github.com/dhruvv028
+
+⚡ Fun Fact
+
+I love building tools that combine AI + systems engineering to make everyday workflows faster and smarter ⚙️
