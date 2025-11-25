@@ -12,7 +12,8 @@ Databases: MongoDB, MySQL
 Tools: Git, GitHub, Postman, VS Code
 Focus Areas: Full-Stack Dev, RAG/LLM Apps, System Design Basics
 
-🚀 Select Projects
+🚀 Projects
+
 🛍️ Closet Ready – E-commerce Platform
 
 Built a full-stack MERN application with JWT auth, role-based access, inventory dashboard, and PayPal integration. Improved cart performance with optimized Redux state handling.
